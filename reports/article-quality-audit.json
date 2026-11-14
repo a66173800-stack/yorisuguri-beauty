@@ -21,8 +21,6 @@
     "articles/skincare-basics.html",
     "articles/styling-guide.html",
     "articles/sunscreen-uv.html",
-    "index.html",
-    "nail-salon/index.html",
     "nail-salon-style.html"
   ],
   "missingDescription": [
@@ -347,7 +345,7 @@
         "../",
         "../"
       ],
-      "contentLength": 1394,
+      "contentLength": 1513,
       "canonical": "https://beauty.yorisuguri-note.com/articles/aging-care.html"
     },
     {
@@ -370,7 +368,7 @@
         "../",
         "../"
       ],
-      "contentLength": 1505,
+      "contentLength": 1623,
       "canonical": "https://beauty.yorisuguri-note.com/articles/beauty-clinic-salon.html"
     },
     {
@@ -393,7 +391,7 @@
         "../",
         "../"
       ],
-      "contentLength": 1413,
+      "contentLength": 1532,
       "canonical": "https://beauty.yorisuguri-note.com/articles/beauty-device-guide.html"
     },
     {
@@ -416,7 +414,7 @@
         "../",
         "../"
       ],
-      "contentLength": 1391,
+      "contentLength": 1508,
       "canonical": "https://beauty.yorisuguri-note.com/articles/beauty-myths.html"
     },
     {
@@ -439,7 +437,7 @@
         "../",
         "../"
       ],
-      "contentLength": 1318,
+      "contentLength": 1429,
       "canonical": "https://beauty.yorisuguri-note.com/articles/bodycare-guide.html"
     },
     {
@@ -462,7 +460,7 @@
         "../",
         "../"
       ],
-      "contentLength": 1352,
+      "contentLength": 1464,
       "canonical": "https://beauty.yorisuguri-note.com/articles/cosmetic-comparison.html"
     },
     {
@@ -485,7 +483,7 @@
         "../",
         "../"
       ],
-      "contentLength": 1503,
+      "contentLength": 1625,
       "canonical": "https://beauty.yorisuguri-note.com/articles/cosmetic-ingredients.html"
     },
     {
@@ -508,7 +506,7 @@
         "../",
         "../"
       ],
-      "contentLength": 1319,
+      "contentLength": 1437,
       "canonical": "https://beauty.yorisuguri-note.com/articles/fragrance-guide.html"
     },
     {
@@ -531,7 +529,7 @@
         "../",
         "../"
       ],
-      "contentLength": 1345,
+      "contentLength": 1459,
       "canonical": "https://beauty.yorisuguri-note.com/articles/haircare-routine.html"
     },
     {
@@ -554,7 +552,7 @@
         "../",
         "../"
       ],
-      "contentLength": 1381,
+      "contentLength": 1505,
       "canonical": "https://beauty.yorisuguri-note.com/articles/inner-beauty.html"
     },
     {
@@ -577,7 +575,7 @@
         "../",
         "../"
       ],
-      "contentLength": 1376,
+      "contentLength": 1490,
       "canonical": "https://beauty.yorisuguri-note.com/articles/makeup-basics.html"
     },
     {
@@ -600,7 +598,7 @@
         "../",
         "../"
       ],
-      "contentLength": 1298,
+      "contentLength": 1412,
       "canonical": "https://beauty.yorisuguri-note.com/articles/mens-beauty.html"
     },
     {
@@ -623,7 +621,7 @@
         "../",
         "../"
       ],
-      "contentLength": 1431,
+      "contentLength": 1551,
       "canonical": "https://beauty.yorisuguri-note.com/articles/nailcare-basics.html"
     },
     {
@@ -646,7 +644,7 @@
         "../",
         "../"
       ],
-      "contentLength": 1331,
+      "contentLength": 1442,
       "canonical": "https://beauty.yorisuguri-note.com/articles/oralcare-guide.html"
     },
     {
@@ -669,7 +667,7 @@
         "../",
         "../"
       ],
-      "contentLength": 1294,
+      "contentLength": 1411,
       "canonical": "https://beauty.yorisuguri-note.com/articles/seasonal-skincare.html"
     },
     {
@@ -692,7 +690,7 @@
         "../",
         "../"
       ],
-      "contentLength": 1442,
+      "contentLength": 1558,
       "canonical": "https://beauty.yorisuguri-note.com/articles/skincare-basics.html"
     },
     {
@@ -715,7 +713,7 @@
         "../",
         "../"
       ],
-      "contentLength": 1357,
+      "contentLength": 1473,
       "canonical": "https://beauty.yorisuguri-note.com/articles/styling-guide.html"
     },
     {
@@ -738,7 +736,7 @@
         "../",
         "../"
       ],
-      "contentLength": 1401,
+      "contentLength": 1517,
       "canonical": "https://beauty.yorisuguri-note.com/articles/sunscreen-uv.html"
     },
     {
@@ -788,7 +786,7 @@
       "affiliate": false,
       "earlyPrDisclosure": false,
       "possibleBrokenRelativeLinks": [],
-      "contentLength": 1663,
+      "contentLength": 1784,
       "canonical": "https://beauty.yorisuguri-note.com/nail-salon-style.html"
     }
   ]
