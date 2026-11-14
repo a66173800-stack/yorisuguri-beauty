@@ -2,312 +2,13 @@
   "site": "beauty",
   "totalHtml": 22,
   "articleCount": 19,
-  "changed": [
-    "articles/aging-care.html",
-    "articles/beauty-clinic-salon.html",
-    "articles/beauty-device-guide.html",
-    "articles/beauty-myths.html",
-    "articles/bodycare-guide.html",
-    "articles/cosmetic-comparison.html",
-    "articles/cosmetic-ingredients.html",
-    "articles/fragrance-guide.html",
-    "articles/haircare-routine.html",
-    "articles/inner-beauty.html",
-    "articles/makeup-basics.html",
-    "articles/mens-beauty.html",
-    "articles/nailcare-basics.html",
-    "articles/oralcare-guide.html",
-    "articles/seasonal-skincare.html",
-    "articles/skincare-basics.html",
-    "articles/styling-guide.html",
-    "articles/sunscreen-uv.html",
-    "nail-salon-style.html"
-  ],
+  "changed": [],
   "missingDescription": [
     "404.html"
   ],
   "affiliatePagesWithoutEarlyDisclosure": [],
   "missingAlt": [],
-  "possibleBrokenRelativeLinks": [
-    {
-      "path": "404.html",
-      "links": [
-        "/assets/beauty.css",
-        "/"
-      ]
-    },
-    {
-      "path": "articles/aging-care.html",
-      "links": [
-        "../",
-        "../#categories",
-        "../#articles",
-        "../",
-        "../#skin",
-        "../#skin",
-        "../#articles",
-        "../",
-        "../"
-      ]
-    },
-    {
-      "path": "articles/beauty-clinic-salon.html",
-      "links": [
-        "../",
-        "../#categories",
-        "../#articles",
-        "../",
-        "../#services",
-        "../#services",
-        "../#articles",
-        "../",
-        "../"
-      ]
-    },
-    {
-      "path": "articles/beauty-device-guide.html",
-      "links": [
-        "../",
-        "../#categories",
-        "../#articles",
-        "../",
-        "../#items",
-        "../#items",
-        "../#articles",
-        "../",
-        "../"
-      ]
-    },
-    {
-      "path": "articles/beauty-myths.html",
-      "links": [
-        "../",
-        "../#categories",
-        "../#articles",
-        "../",
-        "../#knowledge",
-        "../#knowledge",
-        "../#articles",
-        "../",
-        "../"
-      ]
-    },
-    {
-      "path": "articles/bodycare-guide.html",
-      "links": [
-        "../",
-        "../#categories",
-        "../#articles",
-        "../",
-        "../#body",
-        "../#body",
-        "../#articles",
-        "../",
-        "../"
-      ]
-    },
-    {
-      "path": "articles/cosmetic-comparison.html",
-      "links": [
-        "../",
-        "../#categories",
-        "../#articles",
-        "../",
-        "../#makeup",
-        "../#makeup",
-        "../#articles",
-        "../",
-        "../"
-      ]
-    },
-    {
-      "path": "articles/cosmetic-ingredients.html",
-      "links": [
-        "../",
-        "../#categories",
-        "../#articles",
-        "../",
-        "../#knowledge",
-        "../#knowledge",
-        "../#articles",
-        "../",
-        "../"
-      ]
-    },
-    {
-      "path": "articles/fragrance-guide.html",
-      "links": [
-        "../",
-        "../#categories",
-        "../#articles",
-        "../",
-        "../#makeup",
-        "../#makeup",
-        "../#articles",
-        "../",
-        "../"
-      ]
-    },
-    {
-      "path": "articles/haircare-routine.html",
-      "links": [
-        "../",
-        "../#categories",
-        "../#articles",
-        "../",
-        "../#hair",
-        "../#hair",
-        "../#articles",
-        "../",
-        "../"
-      ]
-    },
-    {
-      "path": "articles/inner-beauty.html",
-      "links": [
-        "../",
-        "../#categories",
-        "../#articles",
-        "../",
-        "../#health",
-        "../#health",
-        "../#articles",
-        "../",
-        "../"
-      ]
-    },
-    {
-      "path": "articles/makeup-basics.html",
-      "links": [
-        "../",
-        "../#categories",
-        "../#articles",
-        "../",
-        "../#makeup",
-        "../#makeup",
-        "../#articles",
-        "../",
-        "../"
-      ]
-    },
-    {
-      "path": "articles/mens-beauty.html",
-      "links": [
-        "../",
-        "../#categories",
-        "../#articles",
-        "../",
-        "../#health",
-        "../#health",
-        "../#articles",
-        "../",
-        "../"
-      ]
-    },
-    {
-      "path": "articles/nailcare-basics.html",
-      "links": [
-        "../",
-        "../#categories",
-        "../#articles",
-        "../",
-        "../#body",
-        "../#body",
-        "../#articles",
-        "../",
-        "../"
-      ]
-    },
-    {
-      "path": "articles/oralcare-guide.html",
-      "links": [
-        "../",
-        "../#categories",
-        "../#articles",
-        "../",
-        "../#health",
-        "../#health",
-        "../#articles",
-        "../",
-        "../"
-      ]
-    },
-    {
-      "path": "articles/seasonal-skincare.html",
-      "links": [
-        "../",
-        "../#categories",
-        "../#articles",
-        "../",
-        "../#skin",
-        "../#skin",
-        "../#articles",
-        "../",
-        "../"
-      ]
-    },
-    {
-      "path": "articles/skincare-basics.html",
-      "links": [
-        "../",
-        "../#categories",
-        "../#articles",
-        "../",
-        "../#skin",
-        "../#skin",
-        "../#articles",
-        "../",
-        "../"
-      ]
-    },
-    {
-      "path": "articles/styling-guide.html",
-      "links": [
-        "../",
-        "../#categories",
-        "../#articles",
-        "../",
-        "../#makeup",
-        "../#makeup",
-        "../#articles",
-        "../",
-        "../"
-      ]
-    },
-    {
-      "path": "articles/sunscreen-uv.html",
-      "links": [
-        "../",
-        "../#categories",
-        "../#articles",
-        "../",
-        "../#skin",
-        "../#skin",
-        "../#articles",
-        "../",
-        "../"
-      ]
-    },
-    {
-      "path": "index.html",
-      "links": [
-        "./",
-        "./"
-      ]
-    },
-    {
-      "path": "nail-salon/index.html",
-      "links": [
-        "../",
-        "../#categories",
-        "../#articles",
-        "../",
-        "../",
-        "../#articles",
-        "../"
-      ]
-    }
-  ],
+  "possibleBrokenRelativeLinks": [],
   "pages": [
     {
       "path": "404.html",
@@ -318,10 +19,7 @@
       "imagesMissingAlt": 0,
       "affiliate": false,
       "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "/assets/beauty.css",
-        "/"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 100,
       "canonical": null
     },
@@ -334,17 +32,7 @@
       "imagesMissingAlt": 0,
       "affiliate": false,
       "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "../",
-        "../#categories",
-        "../#articles",
-        "../",
-        "../#skin",
-        "../#skin",
-        "../#articles",
-        "../",
-        "../"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 1513,
       "canonical": "https://beauty.yorisuguri-note.com/articles/aging-care.html"
     },
@@ -357,17 +45,7 @@
       "imagesMissingAlt": 0,
       "affiliate": false,
       "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "../",
-        "../#categories",
-        "../#articles",
-        "../",
-        "../#services",
-        "../#services",
-        "../#articles",
-        "../",
-        "../"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 1623,
       "canonical": "https://beauty.yorisuguri-note.com/articles/beauty-clinic-salon.html"
     },
@@ -380,17 +58,7 @@
       "imagesMissingAlt": 0,
       "affiliate": false,
       "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "../",
-        "../#categories",
-        "../#articles",
-        "../",
-        "../#items",
-        "../#items",
-        "../#articles",
-        "../",
-        "../"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 1532,
       "canonical": "https://beauty.yorisuguri-note.com/articles/beauty-device-guide.html"
     },
@@ -403,17 +71,7 @@
       "imagesMissingAlt": 0,
       "affiliate": false,
       "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "../",
-        "../#categories",
-        "../#articles",
-        "../",
-        "../#knowledge",
-        "../#knowledge",
-        "../#articles",
-        "../",
-        "../"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 1508,
       "canonical": "https://beauty.yorisuguri-note.com/articles/beauty-myths.html"
     },
@@ -426,17 +84,7 @@
       "imagesMissingAlt": 0,
       "affiliate": false,
       "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "../",
-        "../#categories",
-        "../#articles",
-        "../",
-        "../#body",
-        "../#body",
-        "../#articles",
-        "../",
-        "../"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 1429,
       "canonical": "https://beauty.yorisuguri-note.com/articles/bodycare-guide.html"
     },
@@ -449,17 +97,7 @@
       "imagesMissingAlt": 0,
       "affiliate": false,
       "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "../",
-        "../#categories",
-        "../#articles",
-        "../",
-        "../#makeup",
-        "../#makeup",
-        "../#articles",
-        "../",
-        "../"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 1464,
       "canonical": "https://beauty.yorisuguri-note.com/articles/cosmetic-comparison.html"
     },
@@ -472,17 +110,7 @@
       "imagesMissingAlt": 0,
       "affiliate": false,
       "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "../",
-        "../#categories",
-        "../#articles",
-        "../",
-        "../#knowledge",
-        "../#knowledge",
-        "../#articles",
-        "../",
-        "../"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 1625,
       "canonical": "https://beauty.yorisuguri-note.com/articles/cosmetic-ingredients.html"
     },
@@ -495,17 +123,7 @@
       "imagesMissingAlt": 0,
       "affiliate": false,
       "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "../",
-        "../#categories",
-        "../#articles",
-        "../",
-        "../#makeup",
-        "../#makeup",
-        "../#articles",
-        "../",
-        "../"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 1437,
       "canonical": "https://beauty.yorisuguri-note.com/articles/fragrance-guide.html"
     },
@@ -518,17 +136,7 @@
       "imagesMissingAlt": 0,
       "affiliate": false,
       "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "../",
-        "../#categories",
-        "../#articles",
-        "../",
-        "../#hair",
-        "../#hair",
-        "../#articles",
-        "../",
-        "../"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 1459,
       "canonical": "https://beauty.yorisuguri-note.com/articles/haircare-routine.html"
     },
@@ -541,17 +149,7 @@
       "imagesMissingAlt": 0,
       "affiliate": false,
       "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "../",
-        "../#categories",
-        "../#articles",
-        "../",
-        "../#health",
-        "../#health",
-        "../#articles",
-        "../",
-        "../"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 1505,
       "canonical": "https://beauty.yorisuguri-note.com/articles/inner-beauty.html"
     },
@@ -564,17 +162,7 @@
       "imagesMissingAlt": 0,
       "affiliate": false,
       "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "../",
-        "../#categories",
-        "../#articles",
-        "../",
-        "../#makeup",
-        "../#makeup",
-        "../#articles",
-        "../",
-        "../"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 1490,
       "canonical": "https://beauty.yorisuguri-note.com/articles/makeup-basics.html"
     },
@@ -587,17 +175,7 @@
       "imagesMissingAlt": 0,
       "affiliate": false,
       "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "../",
-        "../#categories",
-        "../#articles",
-        "../",
-        "../#health",
-        "../#health",
-        "../#articles",
-        "../",
-        "../"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 1412,
       "canonical": "https://beauty.yorisuguri-note.com/articles/mens-beauty.html"
     },
@@ -610,17 +188,7 @@
       "imagesMissingAlt": 0,
       "affiliate": false,
       "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "../",
-        "../#categories",
-        "../#articles",
-        "../",
-        "../#body",
-        "../#body",
-        "../#articles",
-        "../",
-        "../"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 1551,
       "canonical": "https://beauty.yorisuguri-note.com/articles/nailcare-basics.html"
     },
@@ -633,17 +201,7 @@
       "imagesMissingAlt": 0,
       "affiliate": false,
       "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "../",
-        "../#categories",
-        "../#articles",
-        "../",
-        "../#health",
-        "../#health",
-        "../#articles",
-        "../",
-        "../"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 1442,
       "canonical": "https://beauty.yorisuguri-note.com/articles/oralcare-guide.html"
     },
@@ -656,17 +214,7 @@
       "imagesMissingAlt": 0,
       "affiliate": false,
       "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "../",
-        "../#categories",
-        "../#articles",
-        "../",
-        "../#skin",
-        "../#skin",
-        "../#articles",
-        "../",
-        "../"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 1411,
       "canonical": "https://beauty.yorisuguri-note.com/articles/seasonal-skincare.html"
     },
@@ -679,17 +227,7 @@
       "imagesMissingAlt": 0,
       "affiliate": false,
       "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "../",
-        "../#categories",
-        "../#articles",
-        "../",
-        "../#skin",
-        "../#skin",
-        "../#articles",
-        "../",
-        "../"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 1558,
       "canonical": "https://beauty.yorisuguri-note.com/articles/skincare-basics.html"
     },
@@ -702,17 +240,7 @@
       "imagesMissingAlt": 0,
       "affiliate": false,
       "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "../",
-        "../#categories",
-        "../#articles",
-        "../",
-        "../#makeup",
-        "../#makeup",
-        "../#articles",
-        "../",
-        "../"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 1473,
       "canonical": "https://beauty.yorisuguri-note.com/articles/styling-guide.html"
     },
@@ -725,17 +253,7 @@
       "imagesMissingAlt": 0,
       "affiliate": false,
       "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "../",
-        "../#categories",
-        "../#articles",
-        "../",
-        "../#skin",
-        "../#skin",
-        "../#articles",
-        "../",
-        "../"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 1517,
       "canonical": "https://beauty.yorisuguri-note.com/articles/sunscreen-uv.html"
     },
@@ -748,10 +266,7 @@
       "imagesMissingAlt": 0,
       "affiliate": false,
       "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "./",
-        "./"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 2324,
       "canonical": "https://beauty.yorisuguri-note.com/"
     },
@@ -764,15 +279,7 @@
       "imagesMissingAlt": 0,
       "affiliate": false,
       "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "../",
-        "../#categories",
-        "../#articles",
-        "../",
-        "../",
-        "../#articles",
-        "../"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 1039,
       "canonical": "https://beauty.yorisuguri-note.com/nail-salon/"
     },
