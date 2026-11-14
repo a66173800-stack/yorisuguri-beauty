@@ -24,6 +24,14 @@ jobs:
           dig @1.1.1.1 +short beauty.yorisuguri-note.com AAAA
           echo "=== beauty CAA record ==="
           dig +short yorisuguri-note.com CAA
+      - name: Read GitHub Pages custom domain and TLS status
+        shell: bash
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set +e
+          echo "=== GitHub Pages API ==="
+          gh api "repos/${{ github.repository }}/pages" --jq '{status,cname,html_url,https_enforced,public,pending_domain_unverified,source,build_type}' || true
       - name: Live HTTP and TLS checks
         shell: bash
         run: |
