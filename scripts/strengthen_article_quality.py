@@ -139,6 +139,29 @@ ROOT_NEXT = {
 }
 NEXT.update(ROOT_NEXT)
 
+BEAUTY_NEXT = {
+ "articles/skincare-basics.html": ("まずは3つに絞る","たくさん重ねるより、肌に合う洗顔・保湿・日焼け止めを無理なく続けることから。使用後に刺激を感じたら中止して原因を確認しましょう。",[("SPF・PAを理解する","articles/sunscreen-uv.html"),("成分表示の読み方","articles/cosmetic-ingredients.html")]),
+ "articles/sunscreen-uv.html": ("日焼け止めを買う前に","SPF・PAの数字だけでなく、屋外で過ごす時間、汗・水への強さ、塗り直しやすさを確認しましょう。肌に合う使い心地も重要です。",[("季節ごとの紫外線と乾燥","articles/seasonal-skincare.html"),("基本のスキンケア","articles/skincare-basics.html")]),
+ "articles/aging-care.html": ("肌の悩みに合う選択を","年齢より、乾燥・紫外線・生活習慣など気になる要因から考えてみてください。刺激の強いケアを急に増やさず、少しずつ見直すのがおすすめです。",[("美容成分を確認する","articles/cosmetic-ingredients.html"),("日焼け止めの基本","articles/sunscreen-uv.html")]),
+ "articles/seasonal-skincare.html": ("季節で変えるのは一度に一つ","乾燥や紫外線量が変わる季節も、基本は洗顔・保湿・UV対策。新しい製品を複数同時に替えず、使い心地を確認しながら調整しましょう。",[("保湿の基本を見直す","articles/skincare-basics.html"),("UV対策を選ぶ","articles/sunscreen-uv.html")]),
+ "articles/makeup-basics.html": ("仕上がりで選んでみる","肌の状態や好みのツヤ・カバー力は人それぞれ。流行のアイテムを一式揃える前に、今のメイクで困っていることを一つ決めましょう。",[("コスメ比較の軸を知る","articles/cosmetic-comparison.html"),("スキンケアの基本","articles/skincare-basics.html")]),
+ "articles/cosmetic-comparison.html": ("商品比較で見たい4点","仕上がり・使用感・内容量あたりの価格・肌との相性を同じ基準で比較。広告や口コミだけで判断せず、メーカーの表示も確認しましょう。",[("成分表示の読み方","articles/cosmetic-ingredients.html"),("メイクの基本","articles/makeup-basics.html")]),
+ "articles/fragrance-guide.html": ("香水は小さく試す","試香紙と肌で香り方が変わることがあります。店頭の短時間だけで決めず、時間が経った香りも確認。周囲への香りの強さにも配慮しましょう。",[("コスメを比較する方法","articles/cosmetic-comparison.html"),("スタイリングの考え方","articles/styling-guide.html")]),
+ "articles/styling-guide.html": ("自分に合う仕上がりから逆算","流行を全部取り入れる必要はありません。なりたい雰囲気を一つ決めて、髪・メイク・服のバランスを見直す方が選びやすくなります。",[("メイクの基本","articles/makeup-basics.html"),("髪のケアとスタイリング","articles/haircare-routine.html")]),
+ "articles/haircare-routine.html": ("ヘアアイテムを選ぶ前に","髪の傷み・頭皮の状態・乾かす時間など、困りごとを先に整理しましょう。製品の重さや温度設定、手入れのしやすさも比較項目です。",[("美容家電の選び方","articles/beauty-device-guide.html"),("スタイリングの基本","articles/styling-guide.html")]),
+ "articles/nailcare-basics.html": ("爪を傷めない選択を","ジェルやリムーバーの扱いは製品表示に従い、無理にはがさない。痛みや赤みが続く場合はケアを中止し、必要に応じて専門家に相談してください。",[("ハンド・ボディケア","articles/bodycare-guide.html"),("美容サービスの選び方","articles/beauty-clinic-salon.html")]),
+ "articles/bodycare-guide.html": ("毎日できるケアで十分","全身ケアは高価な製品よりも、洗いすぎを避けることと保湿の継続が基本。手荒れや乾燥がひどいときは製品の使用を見直しましょう。",[("爪と手元のケア","articles/nailcare-basics.html"),("スキンケアの基本","articles/skincare-basics.html")]),
+ "articles/beauty-device-guide.html": ("美容家電の比較で見る5点","目的・使用頻度・安全機能・消耗品・保証や修理対応を確認。宣伝の使用前後写真だけで効果を決めず、取扱説明書と根拠を確かめましょう。",[("ヘアケア家電の使い分け","articles/haircare-routine.html"),("商品比較の基本","articles/cosmetic-comparison.html")]),
+ "articles/inner-beauty.html": ("食事は一品より全体で考える","特定の食材やサプリだけに期待するより、主食・主菜・副菜と睡眠を整えることから。体調に不安があるときは自己判断で過剰摂取しないでください。",[("美容の思い込みを検証","articles/beauty-myths.html"),("スキンケアの基本","articles/skincare-basics.html")]),
+ "articles/oralcare-guide.html": ("歯みがき用品を選ぶ前に","歯ブラシの形より、磨き残しが少ない方法を続けられるかが重要。出血や痛みが続くときは歯科で原因を確認しましょう。",[("男性の身だしなみケア","articles/mens-beauty.html"),("美容の思い込みを検証","articles/beauty-myths.html")]),
+ "articles/mens-beauty.html": ("最初は無理のない習慣から","洗顔・保湿・日焼け止め、そして必要ならシェービング後の刺激対策。男性用と書かれているかより、肌に合う使用感を優先しましょう。",[("スキンケアの基本","articles/skincare-basics.html"),("ヘアケアの基本","articles/haircare-routine.html")]),
+ "articles/cosmetic-ingredients.html": ("成分名だけで効果を決めない","同じ成分でも配合量、製品の設計、使い方で使用感や適合性は変わります。成分ランキングに頼る前に、悩みと商品の使用目的を整理しましょう。",[("コスメ比較の基準","articles/cosmetic-comparison.html"),("エイジングケアの基本","articles/aging-care.html")]),
+ "articles/beauty-myths.html": ("美容情報の確かめ方","SNSで見た話は、個人の感想か、試験で確かめられた内容かを区別。対象者や条件が違う結果を、自分にも必ず当てはめないことが大切です。",[("美容成分の読み方","articles/cosmetic-ingredients.html"),("美容サービスの選び方","articles/beauty-clinic-salon.html")]),
+ "articles/beauty-clinic-salon.html": ("サロンや施術を決める前に","料金だけでなく資格・説明・リスク・追加費用・アフターケアを確認しましょう。医療行為か美容サービスかで必要な専門家も異なります。",[("爪のケアとサロン選び","articles/nailcare-basics.html"),("ネイルサロン特集","nail-salon/index.html")]),
+ "nail-salon-style.html": ("内装より先に決めたいこと","誰に来てほしいか、どんな時間を提供するかを言葉にすると、内装・メニュー・施術写真に統一感が出ます。予算と予約動線も一緒に見直しましょう。",[("ネイルサロンの特集","nail-salon/index.html"),("爪と手元のケア","articles/nailcare-basics.html")]),
+}
+
+
 def clean_text(raw: str) -> str:
     x = re.sub(r"<script\b[^>]*>.*?</script>", " ", raw, flags=re.I|re.S)
     x = re.sub(r"<style\b[^>]*>.*?</style>", " ", x, flags=re.I|re.S)
@@ -230,9 +253,10 @@ def head_meta(s: str, url: str) -> str:
     return head+s[head_match.start():]
 
 def practical_step(s: str, p: str, existing: set[str]) -> str:
-    if STANDALONE_BEAUTY or p not in NEXT: return s
+    dataset=BEAUTY_NEXT if STANDALONE_BEAUTY else NEXT
+    if p not in dataset: return s
     if 'data-yorisuguri-quality="next"' in s: return s
-    title,explanation,links=NEXT[p]
+    title,explanation,links=dataset[p]
     li=[]
     for label,target in links:
         if target not in existing: continue
