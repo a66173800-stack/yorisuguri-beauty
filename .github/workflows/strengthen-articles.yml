@@ -1,0 +1,40 @@
+name: Review and strengthen BEAUTY EDIT articles
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/strengthen_article_quality.py'
+      - '.github/workflows/strengthen-articles.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out BEAUTY EDIT
+        uses: actions/checkout@v4
+      - name: Review content SEO and navigation
+        run: python3 scripts/strengthen_article_quality.py --apply
+      - name: Verify published article count and image alt
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          r=json.loads(Path("reports/article-quality-audit.json").read_text(encoding="utf-8"))
+          assert r["articleCount"] >= 18, "Unexpected missing beauty articles"
+          assert not r["missingAlt"], "Images need alt text before publish"
+          print("Reviewed",r["articleCount"],"beauty articles")
+          PY
+      - name: Commit valid improvements
+        run: |
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add -A -- '*.html' 'reports/article-quality-audit.json'
+          if ! git diff --cached --quiet; then
+            git commit -m "Improve BEAUTY EDIT article SEO and cross-site navigation"
+            git push
+          fi
