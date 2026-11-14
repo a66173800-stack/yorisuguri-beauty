@@ -1,0 +1,38 @@
+name: Diagnose BEAUTY EDIT custom domain
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/diagnose-custom-domain.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Public DNS configuration
+        shell: bash
+        run: |
+          set +e
+          echo "=== Delegated nameservers ==="
+          dig +short yorisuguri-note.com NS
+          echo "=== beauty CNAME (public resolver) ==="
+          dig @1.1.1.1 +short beauty.yorisuguri-note.com CNAME
+          echo "=== beauty A and AAAA (public resolver) ==="
+          dig @1.1.1.1 +short beauty.yorisuguri-note.com A
+          dig @1.1.1.1 +short beauty.yorisuguri-note.com AAAA
+          echo "=== beauty CAA record ==="
+          dig +short yorisuguri-note.com CAA
+      - name: Live HTTP and TLS checks
+        shell: bash
+        run: |
+          set +e
+          echo "=== HTTPS response via public DNS ==="
+          curl -sSIL --max-time 12 https://beauty.yorisuguri-note.com/ | sed -n '1,32p'
+          echo "=== HTTP response via public DNS ==="
+          curl -sSIL --max-time 12 http://beauty.yorisuguri-note.com/ | sed -n '1,32p'
+          echo "=== GitHub Pages direct origin TLS response (CNAME bypass) ==="
+          curl -sSIL --max-time 12 --resolve beauty.yorisuguri-note.com:443:185.199.108.153 https://beauty.yorisuguri-note.com/ | sed -n '1,32p'
+          echo "=== GitHub Pages TLS certificate SAN for custom hostname ==="
+          echo | timeout 9 openssl s_client -connect 185.199.108.153:443 -servername beauty.yorisuguri-note.com 2>/dev/null | openssl x509 -noout -dates -ext subjectAltName || true
