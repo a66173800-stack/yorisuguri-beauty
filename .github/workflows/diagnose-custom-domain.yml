@@ -36,6 +36,7 @@ jobs:
         shell: bash
         run: |
           set +e
+          echo "=== Recheck requested at 2026-11-14 23:11 JST ==="
           echo "=== HTTPS response via public DNS ==="
           curl -sSIL --max-time 12 https://beauty.yorisuguri-note.com/ | sed -n '1,32p'
           echo "=== HTTP response via public DNS ==="
