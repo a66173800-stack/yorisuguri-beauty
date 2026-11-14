@@ -1,0 +1,795 @@
+{
+  "site": "beauty",
+  "totalHtml": 22,
+  "articleCount": 19,
+  "changed": [
+    "articles/aging-care.html",
+    "articles/beauty-clinic-salon.html",
+    "articles/beauty-device-guide.html",
+    "articles/beauty-myths.html",
+    "articles/bodycare-guide.html",
+    "articles/cosmetic-comparison.html",
+    "articles/cosmetic-ingredients.html",
+    "articles/fragrance-guide.html",
+    "articles/haircare-routine.html",
+    "articles/inner-beauty.html",
+    "articles/makeup-basics.html",
+    "articles/mens-beauty.html",
+    "articles/nailcare-basics.html",
+    "articles/oralcare-guide.html",
+    "articles/seasonal-skincare.html",
+    "articles/skincare-basics.html",
+    "articles/styling-guide.html",
+    "articles/sunscreen-uv.html",
+    "index.html",
+    "nail-salon/index.html",
+    "nail-salon-style.html"
+  ],
+  "missingDescription": [
+    "404.html"
+  ],
+  "affiliatePagesWithoutEarlyDisclosure": [],
+  "missingAlt": [],
+  "possibleBrokenRelativeLinks": [
+    {
+      "path": "404.html",
+      "links": [
+        "/assets/beauty.css",
+        "/"
+      ]
+    },
+    {
+      "path": "articles/aging-care.html",
+      "links": [
+        "../",
+        "../#categories",
+        "../#articles",
+        "../",
+        "../#skin",
+        "../#skin",
+        "../#articles",
+        "../",
+        "../"
+      ]
+    },
+    {
+      "path": "articles/beauty-clinic-salon.html",
+      "links": [
+        "../",
+        "../#categories",
+        "../#articles",
+        "../",
+        "../#services",
+        "../#services",
+        "../#articles",
+        "../",
+        "../"
+      ]
+    },
+    {
+      "path": "articles/beauty-device-guide.html",
+      "links": [
+        "../",
+        "../#categories",
+        "../#articles",
+        "../",
+        "../#items",
+        "../#items",
+        "../#articles",
+        "../",
+        "../"
+      ]
+    },
+    {
+      "path": "articles/beauty-myths.html",
+      "links": [
+        "../",
+        "../#categories",
+        "../#articles",
+        "../",
+        "../#knowledge",
+        "../#knowledge",
+        "../#articles",
+        "../",
+        "../"
+      ]
+    },
+    {
+      "path": "articles/bodycare-guide.html",
+      "links": [
+        "../",
+        "../#categories",
+        "../#articles",
+        "../",
+        "../#body",
+        "../#body",
+        "../#articles",
+        "../",
+        "../"
+      ]
+    },
+    {
+      "path": "articles/cosmetic-comparison.html",
+      "links": [
+        "../",
+        "../#categories",
+        "../#articles",
+        "../",
+        "../#makeup",
+        "../#makeup",
+        "../#articles",
+        "../",
+        "../"
+      ]
+    },
+    {
+      "path": "articles/cosmetic-ingredients.html",
+      "links": [
+        "../",
+        "../#categories",
+        "../#articles",
+        "../",
+        "../#knowledge",
+        "../#knowledge",
+        "../#articles",
+        "../",
+        "../"
+      ]
+    },
+    {
+      "path": "articles/fragrance-guide.html",
+      "links": [
+        "../",
+        "../#categories",
+        "../#articles",
+        "../",
+        "../#makeup",
+        "../#makeup",
+        "../#articles",
+        "../",
+        "../"
+      ]
+    },
+    {
+      "path": "articles/haircare-routine.html",
+      "links": [
+        "../",
+        "../#categories",
+        "../#articles",
+        "../",
+        "../#hair",
+        "../#hair",
+        "../#articles",
+        "../",
+        "../"
+      ]
+    },
+    {
+      "path": "articles/inner-beauty.html",
+      "links": [
+        "../",
+        "../#categories",
+        "../#articles",
+        "../",
+        "../#health",
+        "../#health",
+        "../#articles",
+        "../",
+        "../"
+      ]
+    },
+    {
+      "path": "articles/makeup-basics.html",
+      "links": [
+        "../",
+        "../#categories",
+        "../#articles",
+        "../",
+        "../#makeup",
+        "../#makeup",
+        "../#articles",
+        "../",
+        "../"
+      ]
+    },
+    {
+      "path": "articles/mens-beauty.html",
+      "links": [
+        "../",
+        "../#categories",
+        "../#articles",
+        "../",
+        "../#health",
+        "../#health",
+        "../#articles",
+        "../",
+        "../"
+      ]
+    },
+    {
+      "path": "articles/nailcare-basics.html",
+      "links": [
+        "../",
+        "../#categories",
+        "../#articles",
+        "../",
+        "../#body",
+        "../#body",
+        "../#articles",
+        "../",
+        "../"
+      ]
+    },
+    {
+      "path": "articles/oralcare-guide.html",
+      "links": [
+        "../",
+        "../#categories",
+        "../#articles",
+        "../",
+        "../#health",
+        "../#health",
+        "../#articles",
+        "../",
+        "../"
+      ]
+    },
+    {
+      "path": "articles/seasonal-skincare.html",
+      "links": [
+        "../",
+        "../#categories",
+        "../#articles",
+        "../",
+        "../#skin",
+        "../#skin",
+        "../#articles",
+        "../",
+        "../"
+      ]
+    },
+    {
+      "path": "articles/skincare-basics.html",
+      "links": [
+        "../",
+        "../#categories",
+        "../#articles",
+        "../",
+        "../#skin",
+        "../#skin",
+        "../#articles",
+        "../",
+        "../"
+      ]
+    },
+    {
+      "path": "articles/styling-guide.html",
+      "links": [
+        "../",
+        "../#categories",
+        "../#articles",
+        "../",
+        "../#makeup",
+        "../#makeup",
+        "../#articles",
+        "../",
+        "../"
+      ]
+    },
+    {
+      "path": "articles/sunscreen-uv.html",
+      "links": [
+        "../",
+        "../#categories",
+        "../#articles",
+        "../",
+        "../#skin",
+        "../#skin",
+        "../#articles",
+        "../",
+        "../"
+      ]
+    },
+    {
+      "path": "index.html",
+      "links": [
+        "./",
+        "./"
+      ]
+    },
+    {
+      "path": "nail-salon/index.html",
+      "links": [
+        "../",
+        "../#categories",
+        "../#articles",
+        "../",
+        "../",
+        "../#articles",
+        "../"
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "path": "404.html",
+      "title": "ページが見つかりません｜BEAUTY EDIT",
+      "hasDescription": false,
+      "h1Count": 1,
+      "images": 0,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "/assets/beauty.css",
+        "/"
+      ],
+      "contentLength": 100,
+      "canonical": null
+    },
+    {
+      "path": "articles/aging-care.html",
+      "title": "エイジングケアは何歳から？優先順位の決め方｜BEAUTY EDIT",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "../",
+        "../#categories",
+        "../#articles",
+        "../",
+        "../#skin",
+        "../#skin",
+        "../#articles",
+        "../",
+        "../"
+      ],
+      "contentLength": 1394,
+      "canonical": "https://beauty.yorisuguri-note.com/articles/aging-care.html"
+    },
+    {
+      "path": "articles/beauty-clinic-salon.html",
+      "title": "美容医療・サロン選び｜契約前の確認事項｜BEAUTY EDIT",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "../",
+        "../#categories",
+        "../#articles",
+        "../",
+        "../#services",
+        "../#services",
+        "../#articles",
+        "../",
+        "../"
+      ],
+      "contentLength": 1505,
+      "canonical": "https://beauty.yorisuguri-note.com/articles/beauty-clinic-salon.html"
+    },
+    {
+      "path": "articles/beauty-device-guide.html",
+      "title": "美容家電の選び方｜買う前のチェックリスト｜BEAUTY EDIT",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "../",
+        "../#categories",
+        "../#articles",
+        "../",
+        "../#items",
+        "../#items",
+        "../#articles",
+        "../",
+        "../"
+      ],
+      "contentLength": 1413,
+      "canonical": "https://beauty.yorisuguri-note.com/articles/beauty-device-guide.html"
+    },
+    {
+      "path": "articles/beauty-myths.html",
+      "title": "美容の噂は本当？情報を見極める5つの視点｜BEAUTY EDIT",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "../",
+        "../#categories",
+        "../#articles",
+        "../",
+        "../#knowledge",
+        "../#knowledge",
+        "../#articles",
+        "../",
+        "../"
+      ],
+      "contentLength": 1391,
+      "canonical": "https://beauty.yorisuguri-note.com/articles/beauty-myths.html"
+    },
+    {
+      "path": "articles/bodycare-guide.html",
+      "title": "ボディケアの基本｜全身・手足の保湿｜BEAUTY EDIT",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "../",
+        "../#categories",
+        "../#articles",
+        "../",
+        "../#body",
+        "../#body",
+        "../#articles",
+        "../",
+        "../"
+      ],
+      "contentLength": 1318,
+      "canonical": "https://beauty.yorisuguri-note.com/articles/bodycare-guide.html"
+    },
+    {
+      "path": "articles/cosmetic-comparison.html",
+      "title": "化粧品比較で見るべき5つのポイント｜BEAUTY EDIT",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "../",
+        "../#categories",
+        "../#articles",
+        "../",
+        "../#makeup",
+        "../#makeup",
+        "../#articles",
+        "../",
+        "../"
+      ],
+      "contentLength": 1352,
+      "canonical": "https://beauty.yorisuguri-note.com/articles/cosmetic-comparison.html"
+    },
+    {
+      "path": "articles/cosmetic-ingredients.html",
+      "title": "レチノール・ビタミンC・セラミドを整理する｜BEAUTY EDIT",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "../",
+        "../#categories",
+        "../#articles",
+        "../",
+        "../#knowledge",
+        "../#knowledge",
+        "../#articles",
+        "../",
+        "../"
+      ],
+      "contentLength": 1503,
+      "canonical": "https://beauty.yorisuguri-note.com/articles/cosmetic-ingredients.html"
+    },
+    {
+      "path": "articles/fragrance-guide.html",
+      "title": "香水の選び方｜濃度・香り・使い方の基本｜BEAUTY EDIT",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "../",
+        "../#categories",
+        "../#articles",
+        "../",
+        "../#makeup",
+        "../#makeup",
+        "../#articles",
+        "../",
+        "../"
+      ],
+      "contentLength": 1319,
+      "canonical": "https://beauty.yorisuguri-note.com/articles/fragrance-guide.html"
+    },
+    {
+      "path": "articles/haircare-routine.html",
+      "title": "髪と頭皮のケア｜洗い方・乾かし方の基本｜BEAUTY EDIT",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "../",
+        "../#categories",
+        "../#articles",
+        "../",
+        "../#hair",
+        "../#hair",
+        "../#articles",
+        "../",
+        "../"
+      ],
+      "contentLength": 1345,
+      "canonical": "https://beauty.yorisuguri-note.com/articles/haircare-routine.html"
+    },
+    {
+      "path": "articles/inner-beauty.html",
+      "title": "美容と食生活｜栄養・睡眠・生活習慣の基本｜BEAUTY EDIT",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "../",
+        "../#categories",
+        "../#articles",
+        "../",
+        "../#health",
+        "../#health",
+        "../#articles",
+        "../",
+        "../"
+      ],
+      "contentLength": 1381,
+      "canonical": "https://beauty.yorisuguri-note.com/articles/inner-beauty.html"
+    },
+    {
+      "path": "articles/makeup-basics.html",
+      "title": "ベースメイクの基本｜下地・ファンデの選び方｜BEAUTY EDIT",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "../",
+        "../#categories",
+        "../#articles",
+        "../",
+        "../#makeup",
+        "../#makeup",
+        "../#articles",
+        "../",
+        "../"
+      ],
+      "contentLength": 1376,
+      "canonical": "https://beauty.yorisuguri-note.com/articles/makeup-basics.html"
+    },
+    {
+      "path": "articles/mens-beauty.html",
+      "title": "メンズ美容の始め方｜清潔感の整え方｜BEAUTY EDIT",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "../",
+        "../#categories",
+        "../#articles",
+        "../",
+        "../#health",
+        "../#health",
+        "../#articles",
+        "../",
+        "../"
+      ],
+      "contentLength": 1298,
+      "canonical": "https://beauty.yorisuguri-note.com/articles/mens-beauty.html"
+    },
+    {
+      "path": "articles/nailcare-basics.html",
+      "title": "セルフネイルと爪のケア｜傷めにくい基本｜BEAUTY EDIT",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "../",
+        "../#categories",
+        "../#articles",
+        "../",
+        "../#body",
+        "../#body",
+        "../#articles",
+        "../",
+        "../"
+      ],
+      "contentLength": 1431,
+      "canonical": "https://beauty.yorisuguri-note.com/articles/nailcare-basics.html"
+    },
+    {
+      "path": "articles/oralcare-guide.html",
+      "title": "オーラルケアの基本｜歯みがき・歯間清掃｜BEAUTY EDIT",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "../",
+        "../#categories",
+        "../#articles",
+        "../",
+        "../#health",
+        "../#health",
+        "../#articles",
+        "../",
+        "../"
+      ],
+      "contentLength": 1331,
+      "canonical": "https://beauty.yorisuguri-note.com/articles/oralcare-guide.html"
+    },
+    {
+      "path": "articles/seasonal-skincare.html",
+      "title": "春夏秋冬の美容ケア｜季節ごとの見直し方｜BEAUTY EDIT",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "../",
+        "../#categories",
+        "../#articles",
+        "../",
+        "../#skin",
+        "../#skin",
+        "../#articles",
+        "../",
+        "../"
+      ],
+      "contentLength": 1294,
+      "canonical": "https://beauty.yorisuguri-note.com/articles/seasonal-skincare.html"
+    },
+    {
+      "path": "articles/skincare-basics.html",
+      "title": "スキンケアの基本｜洗顔・保湿・順番を見直す｜BEAUTY EDIT",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "../",
+        "../#categories",
+        "../#articles",
+        "../",
+        "../#skin",
+        "../#skin",
+        "../#articles",
+        "../",
+        "../"
+      ],
+      "contentLength": 1442,
+      "canonical": "https://beauty.yorisuguri-note.com/articles/skincare-basics.html"
+    },
+    {
+      "path": "articles/styling-guide.html",
+      "title": "自分に似合う装いの考え方｜色・形・バランス｜BEAUTY EDIT",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "../",
+        "../#categories",
+        "../#articles",
+        "../",
+        "../#makeup",
+        "../#makeup",
+        "../#articles",
+        "../",
+        "../"
+      ],
+      "contentLength": 1357,
+      "canonical": "https://beauty.yorisuguri-note.com/articles/styling-guide.html"
+    },
+    {
+      "path": "articles/sunscreen-uv.html",
+      "title": "日焼け止めの選び方｜SPF・PAの正しい見方｜BEAUTY EDIT",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "../",
+        "../#categories",
+        "../#articles",
+        "../",
+        "../#skin",
+        "../#skin",
+        "../#articles",
+        "../",
+        "../"
+      ],
+      "contentLength": 1401,
+      "canonical": "https://beauty.yorisuguri-note.com/articles/sunscreen-uv.html"
+    },
+    {
+      "path": "index.html",
+      "title": "BEAUTY EDIT｜スキンケア・メイク・ヘアケア・ネイルなど美容の総合ガイド",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 20,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "./",
+        "./"
+      ],
+      "contentLength": 2324,
+      "canonical": "https://beauty.yorisuguri-note.com/"
+    },
+    {
+      "path": "nail-salon/index.html",
+      "title": "ネイルサロン特集｜開業準備・サロンづくり・集客・経営｜BEAUTY EDIT",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "../",
+        "../#categories",
+        "../#articles",
+        "../",
+        "../",
+        "../#articles",
+        "../"
+      ],
+      "contentLength": 1039,
+      "canonical": "https://beauty.yorisuguri-note.com/nail-salon/"
+    },
+    {
+      "path": "nail-salon-style.html",
+      "title": "選ばれるネイルサロンのつくり方｜コンセプト・メニュー・写真・衛生管理｜BEAUTY EDIT",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 0,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 1663,
+      "canonical": "https://beauty.yorisuguri-note.com/nail-salon-style.html"
+    }
+  ]
+}
