@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-label="雪景色と日焼け止めを描いたイラスト">
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#dce4ed"/><stop offset="1" stop-color="#f6f1e9"/></linearGradient>
+    <linearGradient id="tube" x2="1" y2="1"><stop stop-color="#fffdf9"/><stop offset="1" stop-color="#e8dfd7"/></linearGradient>
+  </defs>
+  <rect width="900" height="620" fill="url(#sky)"/>
+  <circle cx="714" cy="145" r="72" fill="#eee3d6" opacity=".8"/>
+  <path d="M0 355 170 165l145 169 124-132 201 208 112-147 148 165v192H0Z" fill="#a9b4bd" opacity=".65"/>
+  <path d="m97 246 73-81 64 74-55-29-29 24-21-14Zm293 39 49-83 80 89-67-37-26 27-22-13Zm327-23 35-54 75 82-55-28-29 18Z" fill="#fffdf9" opacity=".96"/>
+  <path d="M0 430q135-87 276-11t277-5q174-93 347-8v214H0Z" fill="#f9f7f3"/>
+  <path d="M0 496q175-59 349 7t551-16v133H0Z" fill="#e8e5e2"/>
+  <g opacity=".7" fill="#fff"><circle cx="110" cy="108" r="4"/><circle cx="231" cy="67" r="3"/><circle cx="508" cy="115" r="4"/><circle cx="840" cy="69" r="3"/><circle cx="654" cy="329" r="3"/></g>
+  <g transform="translate(357 266) rotate(-7 110 155)">
+    <rect x="95" y="27" width="126" height="41" rx="10" fill="#ded3ca"/>
+    <path d="M70 66q5-19 25-20h126q20 2 23 21l21 249q2 25-23 26H68q-23-2-21-26Z" fill="url(#tube)" stroke="#c7bcb4" stroke-width="4"/>
+    <rect x="91" y="340" width="133" height="44" rx="9" fill="#8d7774"/>
+    <path d="M89 138h139" stroke="#d8cec6" stroke-width="3"/>
+    <text x="159" y="185" text-anchor="middle" fill="#725b5b" font-family="Georgia,serif" font-size="24" letter-spacing="3">UV CARE</text>
+    <text x="159" y="220" text-anchor="middle" fill="#80736c" font-family="sans-serif" font-size="14" letter-spacing="2">DAILY PROTECTION</text>
+    <path d="M116 266h86" stroke="#c7bcb4" stroke-width="2"/>
+    <text x="159" y="296" text-anchor="middle" fill="#8d7774" font-family="Georgia,serif" font-size="18">SPF · PA</text>
+  </g>
+  <path d="M0 0h900v620H0z" fill="none" stroke="#fffdf9" stroke-width="20" opacity=".35"/>
+</svg>
